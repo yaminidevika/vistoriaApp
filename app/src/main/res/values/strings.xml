@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Vistoria App</string>
+    <string name="terms">
+      Vistoria App – Terms and Conditions (Points)
+App provides automated ticket booking and support via chatbot.\n
+
+Users must provide accurate and true personal information.\n
+
+Use the app only for lawful, non-abusive purposes.\n
+
+Do not misuse or attempt to disrupt the app’s service.\n
+
+All conversations may be monitored for quality and improvement.\n
+
+Vistoria is not liable for errors caused by incorrect user inputs.\n
+
+Personal data is handled according to our privacy practices.\n
+
+User accounts can be suspended for violating terms.\n
+
+App is provided “as-is” without guarantees of availability or performance.\n
+
+Terms may change at any time with or without notice.\n
+
+By using the app, you accept these terms automatically.\n
+        For any questions or concerns, please contact:
+📧 support@vistoriaapp.com
+    </string>
+</resources>
